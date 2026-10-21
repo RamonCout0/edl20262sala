@@ -37,6 +37,12 @@
             </properties>
         </profile>
         <profile>
+            <id>sensor</id>
+            <properties>
+                <exec.mainClass>br.com.edl20262.aplicacoes.sensores.SensorApplication</exec.mainClass>
+            </properties>
+        </profile>
+        <profile>
             <id>lista-demo</id>
             <properties>
                 <exec.mainClass>br.com.edl20262.aplicacoes.ListaDemoApplication</exec.mainClass>
